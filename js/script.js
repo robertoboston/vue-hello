@@ -4,7 +4,8 @@ createApp({
     data(){
         return{
             message : 'hello vue js',
-            image : 'IMG_1987.JPG'
+            image : 'jumbo.png',
+            width : 'img-width'
         }
     }
 }).mount('#hello-vue')
