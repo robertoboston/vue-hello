@@ -5,7 +5,8 @@ createApp({
         return{
             message : 'hello vue js',
             image : 'jumbo.png',
-            width : 'img-width'
+            name_user: '',
+            surname : ''
         }
     }
 }).mount('#hello-vue')
